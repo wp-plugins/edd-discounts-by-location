@@ -11,7 +11,7 @@ License URI: http://www.gnu.org/licenses/gpl-2.0.html
 This is Easy Digital Downloads add-on. This plugin enables you to provide country specific discounts.
 
 == Description ==
-This Easy Digital Downloads add-on enables you to restrict a EDD discount code to be used only by the users of specific countries.
+This Easy Digital Downloads add-on restricts an EDD discount code to be used only by the users of specific countries selected by the admin.
 
 == Installation ==
 You can download and install Edd Discounts By Location using the built in WordPress plugin installer. If you download Edd Discounts By Location manually, make sure it is uploaded to `/wp-content/plugins/edd_discounts_by_location/`.
