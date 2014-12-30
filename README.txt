@@ -13,7 +13,7 @@ This is Easy Digital Downloads add-on. This plugin enables you to provide countr
 == Description ==
 The plugin restricts an EDD discount code to be availed only by the users of specific nation/s selected by the admin. This simple-yet-amazing plugin is extremely user friendly and a great way to popularize your online store globally.
 Gone are the days when you had to call for a developer and cough off some hard cash to develop a module for your ecommerce site to allow coupons for specific countries. Here's a plugin that'll help you do this, without charging a single penny.
-Enjoy the best of this plugin on special occasions or days of celebrations in particular nations like – "National Day Discount" for customers from France, on 14th July, "Saint Patrick's Day Offer" for buyers from Ireland, on 17th March; or "The Champion's Discount" for users of a country, which just won a global sports championship.
+Enjoy the best of this plugin on special occasions or days of celebrations in particular nations like - "National Day Discount" for customers from France, on 14th July, "Saint Patrick's Day Offer" for buyers from Ireland, on 17th March; or "The Champion's Discount" for users of a country, which just won a global sports championship.
 This EDD add-on is an easier, faster and a cheapest way to increase the conversion of your site. After all, the more discounts a site offers, the happier its users are!
 
 == Installation ==
