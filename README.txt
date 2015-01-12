@@ -42,10 +42,18 @@ This plugin is compatible with the latest version of Easy Digital Downloads, tha
 
 Initial version release.
 
+1.0.1
+
+Minor bug fix.
+
 == Upgrade Notice ==
 1.0.0
 
 Initial version release.
+
+1.0.1
+
+Minor bug fix.
 
 ==Feedback==
 All we want is some love. If you did not like this plugin or if it is buggy, please give us a shout and we will be happy to fix the issue/add the feature. If you indeed liked it, please leave a 5/5 rating.  
