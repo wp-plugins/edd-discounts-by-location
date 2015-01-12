@@ -4,7 +4,7 @@ Plugin Name: Edd Discounts By Location
 Plugin URI: http://dualcube.com
 Description: This is Easy Digital Downloads add-on. This plugin enables you to provide country specific discounts.
 Author: Dualcube
-Version: 1.0.0
+Version: 1.0.1
 Author URI: http://dualcube.com
 */
 
